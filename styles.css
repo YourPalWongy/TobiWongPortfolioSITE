@@ -59,8 +59,10 @@
 }
 
 .section-1 {
-    background-image: url(./assets/videos/SCRATCHlowres.mp4);
+    background-image: url(./assets/videos/SCRATCHlowres.webm);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .section-2 {
