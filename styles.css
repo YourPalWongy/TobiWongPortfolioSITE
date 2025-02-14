@@ -59,9 +59,9 @@
 }
 
 .section-1 {
-    background-image: url(./assets/videos/SCRATCHalt.webm);
+    background-image: url(./assets/videos/SCRATCHlowres.webm);
     background-position: center;
-    background-color: blue;
+    background-image: url(./assets/recordFALLBACK.png);
 }
 
 .section-2 {
