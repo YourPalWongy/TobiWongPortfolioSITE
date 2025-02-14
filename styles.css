@@ -70,6 +70,13 @@
     padding: 2% 0%;
 }
 
+.section-3 {
+    background-image: url(./assets/trainbackgroundALT.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 header {
     background: linear-gradient(#000000b7, #00000000);
     padding: 0% 2%;
