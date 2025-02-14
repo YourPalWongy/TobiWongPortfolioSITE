@@ -61,6 +61,7 @@
 .section-1 {
     background-image: url(./assets/videos/SCRATCH.mp4);
     background-position: center;
+    background-color: blue;
 }
 
 .section-2 {
