@@ -58,15 +58,6 @@
     font-family: "BebasNeue";
 }
 
-#background-video {
-  position: center;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    z-index: -1;
- }
-
 .section-1 {
     background-image: url(./assets/videos/SCRATCHlowres.mp4);
     background-position: center;
@@ -190,7 +181,6 @@ header {
     --bs-accordion-border-color: #000000;
     --bs-accordion-border-width: 0px;
 }
-
 
 
 
