@@ -58,18 +58,6 @@
     font-family: "BebasNeue";
 }
 
-#background-video {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    position: center;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    z-index: -1;
- }
-
 .section-1 {
     background-image: url(./assets/videos/SCRATCHlowres.mp4);
     background-position: center;
